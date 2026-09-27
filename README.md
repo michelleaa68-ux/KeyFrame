@@ -2,7 +2,7 @@
 
 # KeyFrame
 
-## Solo Project
+Solo Project
 
 ## Tier Selection
 
