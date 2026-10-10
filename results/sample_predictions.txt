@@ -1,0 +1,57 @@
+KEYFRAME NOTE DETECTOR - PREDICTION RESULTS
+=============================================
+
+File: Example 1.mov
+  Truth:     B2 C3
+  Predicted: B2 C3
+  Match:     True
+
+File: Example 2.mov
+  Truth:     C1 E1 A1 E2
+  Predicted: C1 E1 A1 D2 E2
+  Match:     False
+
+File: Example 3.mov
+  Truth:     G2 D2
+  Predicted: G2 A2 G2 E2 D2 E2
+  Match:     False
+
+File: Example 4.mov
+  Truth:     C2 D2 E2 F2 G2 A2
+  Predicted: C2 D2 E2 F2 G2 A2
+  Match:     True
+
+File: Example 5.mov
+  Truth:     A2 G2 F2 E2 D2 C2
+  Predicted: A2 G2 F2 E2 D2 E2 D2 C2
+  Match:     False
+
+File: Example 6.mov
+  Truth:     F2 D2 A2
+  Predicted: F2 D2 A2
+  Match:     True
+
+File: Example 7.mov
+  Truth:     G2 C3
+  Predicted: G2 C3
+  Match:     True
+
+File: Example 8.mov
+  Truth:     G2 D2
+  Predicted: G2 D2
+  Match:     True
+
+File: Test 1.mov
+  Truth:     N/A
+  Predicted: F1 G1 F1 C1
+  Match:     N/A
+
+File: Test 2.mov
+  Truth:     N/A
+  Predicted: B3 G3 B3 E3
+  Match:     N/A
+
+File: Test 3.mov
+  Truth:     N/A
+  Predicted: B2 G3
+  Match:     N/A
