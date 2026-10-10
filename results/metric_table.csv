@@ -1,1 +1,12 @@
-
+Video,Truth,Predicted,Match
+Example 1.mov,B2 C3,B2 C3,True
+Example 2.mov,C1 E1 A1 E2,C1 E1 A1 D2 E2,False
+Example 3.mov,G2 D2,G2 A2 G2 E2 D2 E2,False
+Example 4.mov,C2 D2 E2 F2 G2 A2,C2 D2 E2 F2 G2 A2,True
+Example 5.mov,A2 G2 F2 E2 D2 C2,A2 G2 F2 E2 D2 E2 D2 C2,False
+Example 6.mov,F2 D2 A2,F2 D2 A2,True
+Example 7.mov,G2 C3,G2 C3,True
+Example 8.mov,G2 D2,G2 D2,True
+Test 1.mov,N/A,F1 G1 F1 C1,N/A
+Test 2.mov,N/A,B3 G3 B3 E3,N/A
+Test 3.mov,N/A,B2 G3,N/A
