@@ -46,7 +46,7 @@ For the 3 newer clips, use `key_frac=0.043`.
 ## AI use
 I used Claude and Gemini for help with the code and planning. See `docs/AI_usage_log.md
 
-##Video demos
+## Video demos
 https://drive.google.com/file/d/1rIK8_PXuhk7JiY1tFES83UzQW1TxX_Ip/view?usp=sharing
 https://drive.google.com/file/d/1NeEVMZumMmktawJ5tq4yGuBTNkOKdsbp/view?usp=sharing
 
